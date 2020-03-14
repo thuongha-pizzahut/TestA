@@ -1,0 +1,4 @@
+[Version]
+Latest=2.0.0000
+NewLaunch=1.0.0.0
+Last=3.0.0000
